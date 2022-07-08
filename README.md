@@ -53,6 +53,7 @@ Tabla de los valores del circuito equivalente de Thévenin.
 
 Tabla de la comprobación del teorema de Thévenin.
 
+![image](https://user-images.githubusercontent.com/105740772/178049064-b367d653-896b-4d08-a28e-3df3bdea7bb3.png)
 
 ### Resolución de cálculos
 
@@ -70,6 +71,7 @@ Tabla de la comprobación del teorema de Thévenin.
 
 ## 6.Conclusiones
 - Thevenin es un método de simplificación que consiste en poder reemplazar toda lo que no forma parte de esta con respecto a una fuente de voltaje y resistencia en serie pero los valores de estas igualan las cantidades de amperaje o corriente sin afectar al circuito como tal.
+
 ## 7.Bibliografía
 
 Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
