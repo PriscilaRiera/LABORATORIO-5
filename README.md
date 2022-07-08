@@ -49,6 +49,8 @@ Implementar el circuito equivalente de Thévenin, agregar el resistor R5 y medir
 ### Resultados obtenidos
 Tabla de los valores del circuito equivalente de Thévenin.
 
+![image](https://user-images.githubusercontent.com/105740772/178048284-58fabc56-62b9-4644-8f6c-0c0badddc5c5.png)
+
 Tabla de la comprobación del teorema de Thévenin.
 
 
@@ -56,8 +58,12 @@ Tabla de la comprobación del teorema de Thévenin.
 
 ![image](https://user-images.githubusercontent.com/105740772/178038041-d6ede5d6-6a64-4863-80fd-85a72bf2b36f.png)
 
-### Comparación de mediciones
+![image](https://user-images.githubusercontent.com/105740772/178047758-c5e182b4-538a-4e0e-a2c7-e69b98d32fe4.png)
 
+![image](https://user-images.githubusercontent.com/105740772/178047775-de553b2a-5127-40c8-8be1-8b01f27c645e.png)
+
+### Comparación de mediciones
+- Al realizar los cálculos pertinentes y compararlos con los resultados obtenidos en el simulador, se puede notar que hay una pequeña diferencia, analizando esto, se puede decir que, esta diferencia aparece ya que al realizar los cálculos se utilizan todos las cifras, mientras que, el simuldaor tiende a redorndear las cifras, motivo por el cual hay pequeñas diferencias. 
 
 ## 5.Video
 
