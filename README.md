@@ -54,6 +54,8 @@ Tabla de la comprobación del teorema de Thévenin.
 
 ### Resolución de cálculos
 
+![image](https://user-images.githubusercontent.com/105740772/178038041-d6ede5d6-6a64-4863-80fd-85a72bf2b36f.png)
+
 ### Comparación de mediciones
 
 
