@@ -53,7 +53,7 @@ Tabla de la comprobación del teorema de Thévenin.
 
 
 ### Resolución de cálculos
-### Cálculo del error
+
 ### Comparación de mediciones
 
 
